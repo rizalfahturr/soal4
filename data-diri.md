@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   Rizal Fahturrizqi
+NIM :  155150201111081 
+Kelas : Informatika-E
